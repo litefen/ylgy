@@ -28,7 +28,7 @@
 直接克隆本仓库或者 fork
 
 ```shell
-git clone https://github.com/StreakingMan/solvable-sheep-game.git
+git clone https://github.com/litefen/ylgy.git
 ```
 
 ### 依赖安装
